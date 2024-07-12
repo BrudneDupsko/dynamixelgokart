@@ -51,5 +51,5 @@ To run the script, follow these steps:
 ## Author 
 Tymon Stankiewicz
 
-#License 
+## License 
 Academic Free License
